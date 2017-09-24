@@ -5,8 +5,4 @@
 <h4>支持：.NET Framework 4.5 +</h4>
 
 <h1>前言</h1>
-
-<img  src="https://raw.githubusercontent.com/944095635/DMSkin-for-WPF/master/图片/A.png" />
-
-
 WPF WindowChrome 是属于WPF .NET Framework 4.5 的原生组件,此源码仅仅是DEMO。
