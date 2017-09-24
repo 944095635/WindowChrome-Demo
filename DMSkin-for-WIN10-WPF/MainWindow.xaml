@@ -6,7 +6,10 @@
         xmlns:local="clr-namespace:DMSkin_for_WIN10_WPF"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
+    <WindowChrome.WindowChrome>
+        <WindowChrome CaptionHeight="50"></WindowChrome>
+    </WindowChrome.WindowChrome>
     <Grid>
-        
+        <Button Content="X" HorizontalAlignment="Right"  VerticalAlignment="Top" Width="30" Height="30" BorderThickness="0" Background="Transparent"/>
     </Grid>
 </Window>
